@@ -1,0 +1,62 @@
+body {
+    background-color: rgb(255, 237, 210);
+}
+
+#first_sec {
+
+    height: 900px;
+    background-image: url(images/CODING_IMAGE.jpeg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.container {
+    margin-top: 100px;
+    
+}
+
+.row {
+    display: flexbox;
+    justify-content: center;
+    align-items: center;
+    padding: 0 4px;
+  }
+
+.column {
+    flex: 50%;
+    padding: 0 4px;
+}
+
+
+
+.introduction {
+    margin-top: 50px;
+}
+
+.container{
+    background-color: rgba(248, 217, 170, 0.466);
+}
+
+
+
+.contact {
+   margin-top: 50px;
+   justify-content: center;
+   text-align: center;
+   align-items: center;
+}
+
+
+.linkedinc {
+    border-radius: 50%;
+}
+
+
+h1 {
+    color: rgb(0, 0, 0);
+}
+
+#footerc {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
